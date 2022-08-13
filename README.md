@@ -1,3 +1,5 @@
+## About me
+
 Hello! My name is Sylwia Zaroślak.
 
 I learn something new about testing every day. I have no commercial experience, so  I am especially open to collaboration in the form of an internship.

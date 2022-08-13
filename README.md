@@ -9,3 +9,12 @@ My idea of testing is the same as sudoku, which I adore! There is a chance of ma
 
 Important! My job is more than just using a computer. It's first and foremost the people you interact with and encourage one another.
 The dream team? I'm in!
+
+## My test case example:
+[Test case example --> soon](https://github.com/sylwiazar/Software-Testing)
+
+## My bug report example:
+[Jira bug report](https://github.com/sylwiazar/Software-Testing/blob/main/bunny.expert/bug-in-jira.png)
+
+## My Google Lighthouse test example: 
+[Lighthouse test example](https://github.com/sylwiazar/Software-Testing/blob/main/bunny.expert/Lighthouse-bunny.expert.sklep.png)
